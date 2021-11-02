@@ -1,0 +1,58 @@
+.header{
+  margin-top: 10%;
+  font-size: 66px;
+  display: flex;
+  color: burlywood;
+  justify-content: center;
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: -2px;
+}
+.phone{
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 700;
+  color:black;
+  }
+.phone_img{
+  height: 35px;
+  width: 35px;
+}
+.girl{
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}
+.girl_img{
+  
+  height: 340px;
+  width: 340px;
+  border-radius: 50%;  
+}
+.text{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.line{
+  width: 180px;
+  height: 58px;
+  border-bottom: 8px solid black;
+  position: absolute;
+}
+.Location{
+  font-size: 20px;
+  color: burlywood;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text1{
+  margin-top: 20%;
+}
